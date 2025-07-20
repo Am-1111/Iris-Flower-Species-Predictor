@@ -4,12 +4,6 @@ An interactive web application built with **Streamlit** that predicts the specie
 
 ---
 
-## 🚀 Demo
-
-👉 **Live Demo Link** *(if deployed)*  
-📸 *Add screenshots/gifs here to showcase the interface*
-
----
 
 ## 📦 Features
 
@@ -21,11 +15,6 @@ An interactive web application built with **Streamlit** that predicts the specie
 
 ---
 
-## 🎯 Goal
-
-Make ML models **accessible**, **interpretable**, and **interactive** for a wide audience by deploying them in a user-friendly web interface.
-
----
 
 ## 🛠️ Tech Stack
 
